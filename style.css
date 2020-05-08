@@ -14,3 +14,19 @@
 	flex-flow: column wrap;
 	justify-content: flex-end;
 }
+
+.line{
+	height: 0.3em;
+	width: 15em;
+	background-color: #ffc619;
+	border-radius: 1px;
+}
+
+.attr{
+	font-size: 12px;
+}
+
+.icon{
+	height: 2em;
+	width: 2em;
+}
